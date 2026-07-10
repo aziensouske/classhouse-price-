@@ -1,0 +1,1 @@
+"# Environment variables`n.env" | Out-File -Encoding utf8 backend\frontend\.gitignore
